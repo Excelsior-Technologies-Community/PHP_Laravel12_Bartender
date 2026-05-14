@@ -678,5 +678,8 @@ PHP_Laravel12_Bartender/
 
 Your PHP_Laravel12_Bartender Project is now ready!
 
+<<<<<<< HEAD
 
+=======
+>>>>>>> development
 
